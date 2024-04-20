@@ -16,3 +16,7 @@
 - Host websites and web applications
 
 If you need more control over your computing environment than what other cloud services offer, then Azure VMs are a good option to consider.
+
+##
+- Best way to delete all resources is by creating a group resources
+
